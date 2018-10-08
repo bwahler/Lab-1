@@ -1,0 +1,6 @@
+/Users/Brian/Projects/Lab_1/Lab_1/obj/x86/Debug/Lab_1.csprojResolveAssemblyReference.cache
+/Users/Brian/Projects/Lab_1/Lab_1/obj/x86/Debug/Lab_1.csproj.CoreCompileInputs.cache
+/Users/Brian/Projects/Lab_1/Lab_1/bin/Debug/Lab_1.exe
+/Users/Brian/Projects/Lab_1/Lab_1/bin/Debug/Lab_1.pdb
+/Users/Brian/Projects/Lab_1/Lab_1/obj/x86/Debug/Lab_1.exe
+/Users/Brian/Projects/Lab_1/Lab_1/obj/x86/Debug/Lab_1.pdb
