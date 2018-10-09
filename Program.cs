@@ -11,7 +11,7 @@ namespace Lab_1
             do
             {
 
-                Console.WriteLine("Please enter Length:");
+                Console.WriteLine("Please enter the Length:");
                 String Length = Console.ReadLine();
                 double lengthRoom = double.Parse(Length);
 
@@ -33,7 +33,7 @@ namespace Lab_1
                 Console.WriteLine("Continue (y/n)");
 
             } 
-            //If anything other than a y is enter the program will exit
+            //If anything other than a y is entered the program will exit
             while (Console.ReadLine() == "y");
         }
     }
