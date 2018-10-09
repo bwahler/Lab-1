@@ -10,7 +10,6 @@ namespace Lab_1
 
             do
             {
-
                 Console.WriteLine("Please enter the Length:");
                 String Length = Console.ReadLine();
                 double lengthRoom = double.Parse(Length);
